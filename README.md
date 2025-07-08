@@ -1,4 +1,4 @@
-📊 Exploratory Data Analysis (EDA) Practice:
+**📊 Exploratory Data Analysis (EDA) Practice:**
 
 This Jupyter Notebook demonstrates core techniques of Exploratory Data Analysis (EDA) using Python. It focuses on understanding the structure, distribution, and relationships within a dataset before building any predictive models.
 
